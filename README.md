@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**MehrDataPythonist/MehrDataPythonist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate student with a passion for research, excited to apply for PhD programs in fields such as artificial intelligence, data mining, bioinformatics, computer vision, and time series analysis. My academic background in software engineering and data mining, along with extensive research experience, have equipped me with the skills and knowledge to make meaningful contributions.
 
-Here are some ideas to get you started:
+- 🔭 Research Interests: 
+    - Data Mining: Advanced techniques like clustering, decision trees, association rules
+    - Artificial Intelligence: Machine learning, deep learning, Bayesian inference  
+    - Natural Language Processing: Text analysis, sentiment analysis, language modeling
+    - Bioinformatics: Computational biology, genomics, proteomics
+    - Computer Vision: Image processing, object recognition, image classification
+    - Time Series Analysis: Forecasting, anomaly detection, signal processing, financial markets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Technical Skills:
+    - Programming: Highly proficient in Python and Julia
+    - ML Frameworks: Experienced with Keras and TensorFlow
+    - Statistics & Probability: Very knowledgeable, skilled with software like EasyFit, MedCalc, The Unscrambler X, StatPlus, and VBA in Excel
+    - Other Tools: Linux, HeuristicLab
+
+- 📝 Specialty: 
+    - Machine learning from a Bayesian perspective
+    - Designing hybrid models combining deep learning and traditional ML
+    - Applying NLP and bioinformatics to other domains
+
+- 🌱 Passion and Dedication:
+    - Artificial intelligence is not just my academic focus, but my true passion. I dedicate nearly 12 hours a day, almost without stopping, to exploring and advancing the field. It's more than a hobby; it's my life's work.
+
+- 👯 Looking to Collaborate On:
+    - Research pushing the boundaries of AI, data mining, NLP, bioinformatics, computer vision, time series
+    - Developing novel machine learning architectures and algorithms
+    - Applying advanced techniques to solve real-world problems in various domains
+
+- 📫 How to Reach Me:
+    - Email: s.dastouri@alumni.sbu.ac.ir
+              mehrdaddastouri@gmail.com
