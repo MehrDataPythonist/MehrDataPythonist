@@ -1,3 +1,5 @@
+<div style="font-family: 'Roboto', sans-serif;">
+
 ### Hi there 👋
 
 I am a graduate student with a passion for research, excited to apply for PhD programs in fields such as artificial intelligence, data mining, bioinformatics, computer vision, and time series analysis. My academic background in software engineering and data mining, along with extensive research experience, have equipped me with the skills and knowledge to make meaningful contributions.
@@ -30,5 +32,11 @@ I am a graduate student with a passion for research, excited to apply for PhD pr
     - Applying advanced techniques to solve real-world problems in various domains
 
 - 📫 How to Reach Me:
-    - Email: s.dastouri@alumni.sbu.ac.ir
-              mehrdaddastouri@gmail.com
+    - Email: mehrdaddastouri@gmail.com
+            
+
+I'm happy to lend my expertise to collaborate on impactful research, theses, dissertations, and applied projects. Feel free to reach out to discuss opportunities! 
+
+My coding style emphasizes being specific, structured, and well-documented with clear explanations. I'm confident my skills, experience, and unwavering dedication make me a strong candidate for research roles and PhD programs. Looking forward to advancing the frontiers of AI and data science together!
+
+</div>
