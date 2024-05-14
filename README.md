@@ -1,7 +1,7 @@
 <div style="font-family: 'Roboto Mono', sans-serif;">
 
 Hi there! 👋
-
+{}
 I'm a graduate student with a strong passion for research, eager to apply for PhD programs in the exciting fields that make up the AI Mathematical Mindscape. With my background in software engineering and data mining, along with extensive research experience, I'm well-equipped to make meaningful contributions to this fascinating area.
 
 🔭 Exploring the AI Mathematical Mindscape:
